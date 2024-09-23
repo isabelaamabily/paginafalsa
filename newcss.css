@@ -1,0 +1,354 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 6 de set. de 2024, 16:02:09
+    Author     : isabela_bittencourt
+*/
+.retangulo {
+    width: 347px; 
+    height: 408px; 
+    background-color: white;
+    border: 1px solid #e2e2e2;
+    margin: 20px; 
+    position: absolute; 
+    top: 25px; 
+    left: 724px;
+}
+.retangulo1 {
+    width: 347px; 
+    height: 61px; 
+    background-color: white;
+    border: 1px solid #e2e2e2;
+    margin: 20px; 
+    position: absolute; 
+    top: 446px; 
+    left: 724px;
+}
+.telefone {
+    width: 260px; 
+    height: 34px; 
+    background-color: white;
+    border: 1px solid #e2e2e2;
+    position: absolute; 
+    top: 182px; 
+    left: 785px;
+}
+
+
+.logo {
+    width: 185px; 
+    height: 75px; 
+    position: absolute; 
+    top: 89px; 
+    left: 824px;}
+.entrar {
+    width: 265px; 
+    height: 32px;
+    border: none;
+    background-color: #4cb5f9;
+    color: white;
+    font-size: 12.9px;
+    cursor: pointer; 
+    border-radius: 7px; 
+    transition: background-color 0.3s;
+    font-weight: bold;
+    position: absolute; 
+    top: 278px; 
+    left: 785px;
+}
+.linha1 {
+    border: 0;
+    border-top: 0.5px solid #e2e2e2;
+    position: absolute; 
+    top: 330px; 
+    left: 785px;
+    width: 105px; 
+}
+.linha2 {
+    border: 0;
+    border-top: 0.5px solid #e2e2e2;
+    position: absolute; 
+    top: 330px; 
+    left: 945px;
+    width: 105px; 
+}
+.ou {
+    font-family: arial;
+    font-size: 12.5px;
+    color: #737373;
+    position: absolute; 
+    top: 320px; 
+    left: 909px;
+}
+
+.face {
+    width: 15x;
+    height: 15px;
+    position: absolute; 
+    top: 380px; 
+    left: 833px;
+}
+.textoface {
+    font-family: arial;
+    font-size: 13px;
+    color: #3851a1;
+    position: absolute; 
+    top: 368px; 
+    left: 855px;
+    font-weight: bold;
+}
+
+.textosenha {
+    font-family: arial;
+    font-size: 11.5px;
+    color: #0c3f71;
+    position: absolute; 
+    top: 408px; 
+    left: 870px;
+}
+
+.textoconta {
+   font-family: arial;
+   font-size: 13.5px;
+   position: absolute; 
+   top: 475px; 
+   left: 815px; 
+   letter-spacing: 0.3px;
+}
+
+.textocadastro {
+   font-family: arial;
+   font-size: 14px;
+   color: #0295f6;
+   position: absolute; 
+   top: 475px; 
+   left: 950px; 
+   letter-spacing: 0.3px;
+}
+
+.textoapp {
+   font-family: arial;
+   font-size: 14px;
+   position: absolute; 
+   top: 533px; 
+   left: 853px; 
+   letter-spacing: 0.3px;    
+}
+.app {
+    width: 263px;
+    height: 56px;
+    position: absolute; 
+    top: 573px; 
+    left: 785px;
+}
+.meta {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 241px; 
+}
+.sobre {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 285px; 
+}
+.blog {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 331px; 
+}
+.carreiras {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 370px; 
+}
+.ajuda {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 433px; 
+}
+.api {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 479px; 
+}
+.privacidade {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 513px; 
+}
+
+.termos {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 590px; 
+}
+.loc {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 644px; 
+}
+.insta {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 726px; 
+}
+.threads {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 816px; 
+}
+.carreg {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 874px; 
+}
+.verified {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 680px; 
+   left: 1113px; 
+}
+.idioma {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 714px; 
+   left: 572px; 
+}
+.copy {
+   font-family: arial;
+   font-size: 12px;
+   color: #747075;
+   position: absolute; 
+   top: 714px; 
+   left: 697px; 
+}
+
+
+.entrada {
+            position: relative;
+            width: 100%;
+            height: auto;
+        }
+
+        .entrada img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 378px;
+            height: 581px;
+            opacity: 0;
+            transition: opacity 1s ease-in-out;
+            top: 29px; 
+            left: 324px;
+        }
+
+        .entrada img.active {
+            opacity: 1;
+        }
+        
+        .link:hover .meta, :hover.sobre, :hover.blog, :hover.carreiras, :hover.ajuda, :hover.api, :hover.privacidade, :hover.termos, :hover.loc, :hover.insta, :hover.threads, :hover.carreg, :hover.verified  {
+            text-decoration: underline;
+        }
+        
+        
+
+        .telefone1 {
+            
+            background-color: white;
+            border: 1px solid #e2e2e2;
+            padding: 5px;
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.3s ease;
+             
+        }
+
+        .toggle-password {
+    position: absolute;
+    top: 245px;
+    left: 993px;
+    transform: translateY(-50%);
+    color: black;  
+    cursor: pointer;
+    font-size: 14px; 
+    font-family: Arial;
+    user-select: none;
+}
+
+.telefone1 {
+    width: 255px; 
+    height: 26px;
+    position: absolute; 
+    top: 226px; 
+    left: 785px; 
+}
+
+input::placeholder {
+    font-size: 12px;
+}
+
+   /* Para telas grandes (computadores) */
+@media (min-width: 1024px) {
+  .seletor {
+    width: 50%;
+    font-size: 16px;
+  }
+}
+
+/* Para telas médias (tablets) */
+@media (max-width: 1024px) and (min-width: 768px) {
+  .seletor {
+    width: 70%;
+    font-size: 14px;
+  }
+}
+
+/* Para telas pequenas (celulares) */
+@media (max-width: 767px) {
+  .seletor {
+    width: 90%;
+    font-size: 12px;
+  }
+}
